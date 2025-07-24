@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71690641-d1fd-41a2-b309-8f6fa074a56d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/controller/LaptopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/controller/RentalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/entity/Payments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/entity/Rental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/repositories/LaptopRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/repositories/PaymentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/repositories/RentalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/security/JwtFilters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/security/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/service/InvoiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/service/LaptopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/service/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/laptoprental/backend/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laptop-rental-system.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NikhilaGajula"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Akhil-com/laptop-rental-system.git",
+    "accountId": "c330b10a-f9d3-4677-b18b-68366e60df32"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="30JxLeVNRr6TVJ9EwinWOzOVZeg" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "nikila__branch",
+    "last_opened_file_path": "C:/Users/ADMIN/Downloads/Proj/laptop-rental-system"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71690641-d1fd-41a2-b309-8f6fa074a56d" name="Changes" comment="" />
+      <created>1753359421971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753359421971</updated>
+    </task>
+    <servers />
+  </component>
+</project>
